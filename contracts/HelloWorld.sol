@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity 0.8.17;
 
-contract MyContract {
+contract HelloWorld {
     event indexedInfo(address indexed from, uint256 time);
     event normalInfo(address from, uint256 time);
 
